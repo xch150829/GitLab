@@ -1,2 +1,1 @@
-# Command Line
-
+# This is some tests of Git.
