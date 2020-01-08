@@ -5,3 +5,4 @@ Study of Git
 ...
 
 bugfix02
+
