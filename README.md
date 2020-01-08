@@ -2,4 +2,3 @@
 Study of Git
 
 ## Command Line
-...
